@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.JTL</groupId>
-	<artifactId>JTL-Backend</artifactId>
+	<artifactId>JTL-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JTL-Backend</name>
+	<name>JTL-API</name>
 	<description>Simple app to provide backend functions for my website.</description>
 	<properties>
 		<java.version>17</java.version>

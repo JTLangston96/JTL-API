@@ -1,10 +1,10 @@
-package com.JTL.JTLBackend;
+package com.jtl.jtlApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JtlBackendApplicationTests {
+class JtlApiTests {
 
 	@Test
 	void contextLoads() {

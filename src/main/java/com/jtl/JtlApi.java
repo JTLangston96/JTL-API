@@ -1,13 +1,13 @@
-package com.JTL.JTLBackend;
+package com.jtl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JtlBackendApplication {
+public class JtlApi {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JtlBackendApplication.class, args);
+		SpringApplication.run(JtlApi.class, args);
 	}
 
 }
